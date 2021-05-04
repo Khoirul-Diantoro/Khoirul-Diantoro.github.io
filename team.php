@@ -25,7 +25,7 @@ if (empty($_SESSION['Nama'])) {
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm fixed-top" >
   <div class="container">
-    <a class="navbar-brand" href="#">SlampirKuy</a>
+    <a class="navbar-brand" href="team.php">SlampirKuy</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -86,7 +86,7 @@ if (empty($_SESSION['Nama'])) {
         <p class="light grey-text text-darken-3">E-mail: farhanwa243@student.uns.ac.id</p>
       </div>
       <div class="col-md s6 center">
-        <img src="image/Khoirul.jpg" class="rounded-circle responsive-img" width="280">
+        <img src="image/khoirul.jpg" class="rounded-circle responsive-img" width="280">
         <h5>Khoirul Diantoro</h5>
         <p class="light grey-text text-darken-3">@khoirul_bodho</p>
         <p class="light grey-text text-darken-3">E-mail:khoirulmba1@student.uns.ac.id</p>

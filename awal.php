@@ -28,7 +28,7 @@ if (empty($_SESSION['Nama'])) {
 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm fixed-top" >
   <div class="container">
-    <a class="navbar-brand" href="#">SlampirKuy</a>
+    <a class="navbar-brand" href="awal.php">SlampirKuy</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -127,7 +127,7 @@ if (empty($_SESSION['Nama'])) {
         <div class="card">
           <img src="image/projek1.jpg" class="card-img-top" alt="projek 1">
           <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Potret kejernihan Air.</p>
           </div>
         </div>
       </div>
@@ -135,7 +135,7 @@ if (empty($_SESSION['Nama'])) {
         <div class="card">
           <img src="image/2.jpg" class="card-img-top" alt="projek 1">
           <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Air Terjun Selampir.</p>
           </div>
         </div>
       </div>
@@ -143,7 +143,7 @@ if (empty($_SESSION['Nama'])) {
         <div class="card">
           <img src="image/3.jpg" class="card-img-top" alt="projek 1">
           <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Air mengalir dari hulu ke hilir.</p>
           </div>
         </div>
       </div>

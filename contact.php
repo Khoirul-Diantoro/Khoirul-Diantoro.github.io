@@ -9,7 +9,7 @@ if (empty($_SESSION['Nama'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SlampirKuy</title>
+	<title>SlampirKuy | Contact Us</title>
 	<!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,7 +27,7 @@ if (empty($_SESSION['Nama'])) {
 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm" >
   <div class="container">
-    <a class="navbar-brand" href="#">Air Terjun Selampir</a>
+    <a class="navbar-brand" href="contact.php">SlampirKuy</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
